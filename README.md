@@ -5,7 +5,7 @@
 
 ## In this GitHub repo, you can find: 
 
-1) data: Markups Comma-separated values file (i.e., *.fcsv extension) files for both templates and datasets (along side template scans if size permits; otherwise *coordinate.json will have instructions for download). 
+1) data: Markups Comma-separated values file (i.e., *.fcsv extension) files for both templates and datasets. 
 2) notebooks: Jupyter notebooks involved in creation of the JavaScript Object Notation (i.e., *.json) which is an adaptation from BIDS Appendix VIII on Coordinate systems.  
 3) other: Information about rater experience, afids protocol, and interactive glass brain
 
