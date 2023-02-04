@@ -1,7 +1,7 @@
 # Magnetic resonance imaging datasets with anatomical fiducials for quality control and registration
 <img width="757" alt="image (21)" src="https://user-images.githubusercontent.com/46094728/200840201-90d2e6ef-b066-4de9-8bae-79cb51bd2354.png">
 
-[![DOI](https://zenodo.org/badge/508086778.svg)](https://zenodo.org/badge/latestdoi/508086778)
+[![DOI](.svg)](link)
 
 ## In this GitHub repo, you can find: 
 
