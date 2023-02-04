@@ -1,0 +1,33 @@
+name,description,acronym,side
+1,AC,AC,midline
+2,PC,PC,midline
+3,infracollicular sulcus,ICS,midline
+4,PMJ,PMJ,midline
+5,superior interpeduncular fossa,SIPF,midline
+6,R superior LMS,RSLMS,right
+7,L superior LMS,LSLMS,left
+8,R inferior LMS,RILMS,right
+9,L inferior LMS,LILMS,left
+10,culmen,CUL,midline
+11,intermammillary sulcus,IMS,midline
+12,R MB,RMB,right
+13,L MB,LMB,left
+14,pineal gland,PG,midline
+15,R LV at AC,RLVAC,right
+16,L LV at AC,LLVAC,left
+17,R LV at PC,RLVPC,right
+18,L LV at PC,LLVPC,left
+19,genu of CC,GENU,midline
+20,splenium of CC,SPLE,midline
+21,R AL temporal horn,RALTH,right
+22,L AL temporal horn,LALTH,left
+23,R superior AM temporal horn,RSAMTH,right
+24,L superior AM temporal horn,LSAMTH,left
+25,R inferior AM temporal horn,RIAMTH,right
+26,L inferior AM temporal horn,LIAMTH,left
+27,R indusium griseum origin,RIGO,right
+28,L indusium griseum origin,LIGO,left
+29,R ventral occipital horn,RVOH,right
+30,L ventral occipital horn,LVOH,left
+31,R olfactory sulcal fundus,ROSF,right
+32,L olfactory sulcal fundus,LOSF,left
