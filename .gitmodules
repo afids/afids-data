@@ -8,3 +8,8 @@
 	url = https://github.com/OpenNeuroDatasets/ds004470.git
 	datalad-id = 2f76dcb8-aa3b-4828-a2ff-ea43a5d6d749
 	datalad-url = https://github.com/OpenNeuroDatasets/ds004470.git
+[submodule "data/templates/tpl-fsaverage"]
+	path = data/templates/tpl-fsaverage
+	url = https://github.com/afids/tpl-fsaverage.git
+	datalad-id = 22e3d07e-1915-11e9-a3af-64006a8a730f
+	datalad-url = https://github.com/afids/tpl-fsaverage.git
