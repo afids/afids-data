@@ -15,4 +15,4 @@
 3) London Health Sciences Center Parkinson's Disease Dataset (LHSCPD ; n = 40): 
 4) Stereotactic Neurosurgery 7-Tesla Control Dataset (SNSX; n = 32): 
 
-*Please review and agree to the Data Usage Terms, outlined in OpenNeuro links of each dataset, before downloading imaging data.
+*Please review and agree to the Data Usage Terms, outlined in links to each dataset, before downloading imaging data.
