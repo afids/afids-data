@@ -10,9 +10,9 @@
 3) other: Information about rater experience, afids protocol, and interactive glass brain
 
 ## Compressed NIfTI-1 format (i.e., .nii.gz extension) for datasets involved in this study are available on OpenNeuro: 
-1) 100 Unrelated Humman Connectome Project (AFIDs-HCP dataset; n = 30): [doi:10.18112/openneuro.ds004253](https://openneuro.org/datasets/ds004253)
-2) Open Access Series of Imaging Studies (AFIDs-OASIS dataset; n = 30): [doi:10.18112/openneuro.ds004288](https://openneuro.org/datasets/ds004288) 
-3) London Health Sciences Center Parkinson's Disease Dataset (LHSCPD ; n = 40): [doi:10.18112/openneuro.ds004298](https://openneuro.org/datasets/ds004298)
-4) Stereotactic Neurosurgery 7-Tesla Control Dataset (SNSX; n = 32): [doi:10.18112/openneuro.ds004241](https://openneuro.org/datasets/ds004241)
+1) 100 Unrelated Humman Connectome Project (AFIDs-HCP dataset; n = 30): 
+2) Open Access Series of Imaging Studies (AFIDs-OASIS dataset; n = 30):  
+3) London Health Sciences Center Parkinson's Disease Dataset (LHSCPD ; n = 40): 
+4) Stereotactic Neurosurgery 7-Tesla Control Dataset (SNSX; n = 32): 
 
-*Please review and agree to the Data Usage Terms, outlined in OpenNeuro links of each dataset, before downloading imaging data.
+*Please review and agree to the Data Usage Terms, outlined in links to each dataset, before downloading imaging data.
