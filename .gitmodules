@@ -3,3 +3,8 @@
 	url = git@github.com:ataha24/tpl-Agile12v2016.git
 	datalad-id = 4bf5e761-9445-46e1-bab1-9772d7d23441
 	datalad-url = git@github.com:ataha24/tpl-Agile12v2016.git
+[submodule "data/datasets/SNSX"]
+	path = data/datasets/SNSX
+	url = https://github.com/OpenNeuroDatasets/ds004470.git
+	datalad-id = 2f76dcb8-aa3b-4828-a2ff-ea43a5d6d749
+	datalad-url = https://github.com/OpenNeuroDatasets/ds004470.git
