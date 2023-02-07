@@ -9,7 +9,7 @@
 2) notebooks: Jupyter notebooks involved in creation of the JavaScript Object Notation (i.e., *.json) which is an adaptation from BIDS Appendix VIII on Coordinate systems.  
 3) other: Information about rater experience, afids protocol, and interactive glass brain
 
-## Compressed NIfTI-1 format (i.e., .nii.gz extension) for datasets involved in this study are available on OpenNeuro: 
+## Compressed NIfTI-1 format (i.e., .nii.gz extension) for datasets involved in this study are available for download: 
 1) 100 Unrelated Humman Connectome Project (AFIDs-HCP dataset; n = 30): 
 2) Open Access Series of Imaging Studies (AFIDs-OASIS dataset; n = 30):  
 3) London Health Sciences Center Parkinson's Disease Dataset (LHSCPD ; n = 40): 
