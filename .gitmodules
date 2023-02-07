@@ -8,3 +8,8 @@
 	url = https://github.com/afids/tpl-fsaverage.git
 	datalad-id = 22e3d07e-1915-11e9-a3af-64006a8a730f
 	datalad-url = https://github.com/afids/tpl-fsaverage.git
+[submodule "data/templates/tpl-Agile12v2016"]
+	path = data/templates/tpl-Agile12v2016
+	url = https://github.com/ataha24/tpl-Agile12v2016.git
+	datalad-id = 4bf5e761-9445-46e1-bab1-9772d7d23441
+	datalad-url = https://github.com/ataha24/tpl-Agile12v2016.git
