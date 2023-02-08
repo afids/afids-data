@@ -22,3 +22,7 @@
 	path = data/templates/tpl-BigBrainSym
 	url = https://github.com/ataha24/tpl-BigBrainSym.git
 	datalad-url = https://github.com/ataha24/tpl-BigBrainSym.git
+[submodule "data/templates/tpl-PD25"]
+	path = data/templates/tpl-PD25
+	url = https://github.com/ataha24/tpl-PD25.git
+	datalad-url = https://github.com/ataha24/tpl-PD25.git
