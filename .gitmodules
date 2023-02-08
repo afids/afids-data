@@ -31,3 +31,8 @@
 	url = https://github.com/afids/tpl-MNIColin27.git
 	datalad-id = d1bd584c-6126-401d-9b44-e6e87d7c41b4
 	datalad-url = https://github.com/afids/tpl-MNIColin27.git
+[submodule "data/templates/tpl-MNI152Lin"]
+	path = data/templates/tpl-MNI152Lin
+	url = https://github.com/afids/tpl-MNI152Lin.git
+	datalad-id = 9375ed5c-d36c-11e8-8ca6-64006a8a730f
+	datalad-url = https://github.com/afids/tpl-MNI152Lin.git
