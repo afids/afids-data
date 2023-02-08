@@ -71,3 +71,8 @@
 	url = https://github.com/afids/tpl-MNI305.git
 	datalad-id = bf1bba46-0951-4040-bf0b-dcde0532612c
 	datalad-url = https://github.com/afids/tpl-MNI305.git
+[submodule "data/templates/tpl-OASIS30ANTs"]
+	path = data/templates/tpl-OASIS30ANTs
+	url = https://github.com/afids/tpl-OASIS30ANTs.git
+	datalad-id = 531d03b4-006a-11e9-8b4e-f45c89af84cb
+	datalad-url = https://github.com/afids/tpl-OASIS30ANTs.git
