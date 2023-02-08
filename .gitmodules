@@ -61,3 +61,8 @@
 	url = https://github.com/afids/tpl-MNI152NLin6Asym.git
 	datalad-id = 39d3b374-51b6-11e9-b40c-64006a8a730f
 	datalad-url = https://github.com/afids/tpl-MNI152NLin6Asym.git
+[submodule "data/templates/tpl-MNI152NLin6Sym"]
+	path = data/templates/tpl-MNI152NLin6Sym
+	url = https://github.com/afids/tpl-MNI152NLin6Sym.git
+	datalad-id = 07c74142-2453-11e9-8322-f45c89af84cb
+	datalad-url = https://github.com/afids/tpl-MNI152NLin6Sym.git
