@@ -13,3 +13,8 @@
 	url = https://github.com/ataha24/tpl-Agile12v2016.git
 	datalad-id = 4bf5e761-9445-46e1-bab1-9772d7d23441
 	datalad-url = https://github.com/ataha24/tpl-Agile12v2016.git
+[submodule "data/datasets/LHSCPD"]
+	path = data/datasets/LHSCPD
+	url = https://github.com/OpenNeuroDatasets/ds004471.git
+	datalad-id = eb4be7a8-ca95-4a19-8be7-77a89a83f56c
+	datalad-url = https://github.com/OpenNeuroDatasets/ds004471.git
