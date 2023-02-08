@@ -18,3 +18,7 @@
 	url = https://github.com/OpenNeuroDatasets/ds004471.git
 	datalad-id = eb4be7a8-ca95-4a19-8be7-77a89a83f56c
 	datalad-url = https://github.com/OpenNeuroDatasets/ds004471.git
+[submodule "data/templates/tpl-BigBrainSym"]
+	path = data/templates/tpl-BigBrainSym
+	url = https://github.com/ataha24/tpl-BigBrainSym.git
+	datalad-url = https://github.com/ataha24/tpl-BigBrainSym.git
