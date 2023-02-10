@@ -81,3 +81,8 @@
 	url = https://github.com/afids/afids-hcp.git
 	datalad-id = 65a4c0b6-6bb4-41d9-a460-d1731be988b7
 	datalad-url = https://github.com/afids/afids-hcp.git
+[submodule "data/datasets/AFIDs-OASIS"]
+	path = data/datasets/AFIDs-OASIS
+	url = https://github.com/afids/AFIDs-OASIS.git
+	datalad-id = 529e9dcd-6c14-4d68-b096-fa25a5235b6b
+	datalad-url = https://github.com/afids/AFIDs-OASIS.git
