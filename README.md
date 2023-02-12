@@ -17,6 +17,8 @@
 
 *Please review and agree to the Data Usage Terms, outlined in links to the HCP and OASIS datasets, before downloading imaging data.
 
+## Accepting Data Usage Agreements (DUA):
+For information about specific dataset DUA, please consult the individual directories linked above. To download HCP and OASIS data, the user must accept their specific DUAs. As for our local datasets (i.e., LHSCPD and SNSX), the are released under Attribution 4.0 International (CC BY 4.0) license and no further user intervention is needed for download. Users can either download those datasets directly from links above, or by cloning the super dataset here via instructions below. 
 
 ## Downloading imaging data:
 
