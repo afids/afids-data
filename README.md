@@ -27,7 +27,7 @@ https://www.datalad.org/#install
     
 
 2) Step #2: clone our superdataset (afids-data) on your machine 
-`datalad install <link to this repository>` run this where you want the data to live
+`datalad install https://github.com/afids/afids-data.git` run this where you want the data to live
     
 
 3) **Step #3: fill in cloned dataset content
