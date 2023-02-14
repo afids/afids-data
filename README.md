@@ -22,18 +22,21 @@ For information about specific dataset DUA, please consult the individual direct
 
 ## Downloading the afids-data super dataset:
 
-1) Visit the individual datasets linked above to appreciate licensing, accepting DUA, and acquiring user credentials when needed
+1) Visit the individual datasets linked above to appreciate licensing, accepting DUA, and acquiring any required user credentials
 
-2) Install datalad
+2) Install datalad:
 https://www.datalad.org/#install
     
-3) Clone our superdataset (afids-data) on your machine 
+3) Clone our super dataset (afids-data) on your machine:
 `datalad install -r https://github.com/afids/afids-data.git` run this where you want the data to live
 
-4) Navigate to the cloned directory `cd afids-data`
+4) Navigate to the cloned directory:
+`cd afids-data`
     
-4) fill in cloned dataset content
-`datalad get -r .` run this to install all the data we release. Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs. Note: to download a specific dataset or image, simply run the same command in this step at the level of that dataset or image.
+5) Retrieve file content:
+`datalad get -r .` run this to install all the data as part of our super dataset (`.` denotes “current directory” and the `-r` flag is used because afids-data is comprised of multiple DataLad datasets). You can also `datalad get` a full dataset or precise subset of to-be-retrieved files. To do this, you can supply paths or globbing expressions (such as`data/datasets/AFIDs-LHSCPD` or `sub-*/anat/*` instead of `.`). 
+
+Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs. Note: to download a specific dataset or image, simply run the same command in this step at the level of that dataset or image.
 
 Feel free to consult the DataLad handbook for more information about working with DataLad: https://handbook.datalad.org/en/latest/
 
