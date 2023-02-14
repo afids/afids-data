@@ -29,9 +29,13 @@ https://www.datalad.org/#install
     
 3) Clone our superdataset (afids-data) on your machine 
 `datalad install -r https://github.com/afids/afids-data.git` run this where you want the data to live
+
+4) Navigate to the cloned directory `cd afids-data`
     
 4) fill in cloned dataset content
-`datalad get -r .` run this from the parent afids-data directory to install all the data we release here. Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs. Note: to download a specific dataset or image, simply run the same command at the level of that dataset or image.
+`datalad get -r .` run this to install all the data we release. Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs. Note: to download a specific dataset or image, simply run the same command in this step at the level of that dataset or image.
+
+Feel free to consult the DataLad handbook for more information about working with DataLad: https://handbook.datalad.org/en/latest/
 
 ## An important note on data imaging data license: 
 
