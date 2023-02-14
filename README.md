@@ -19,7 +19,7 @@
 *Please review and agree to the Data Usage Terms, outlined in links to the HCP and OASIS datasets, before downloading imaging data.
 
 ## Accepting Data Usage Agreements (DUA):
-For information about specific dataset DUA, please consult the individual directories linked above. To download HCP and OASIS data, the user must accept their specific DUAs. As for our local datasets (i.e., LHSCPD and SNSX), the are released under Attribution 4.0 International (CC BY 4.0) license and no further user intervention is needed for download. Users can either download those datasets directly from links above, or by cloning the super dataset here via instructions below. 
+For information about specific dataset DUA, please consult the individual directories linked above. To download HCP and OASIS data, the user must accept their specific DUAs. As for our local datasets (i.e., LHSCPD and SNSX), they are released under Attribution 4.0 International (CC BY 4.0) license and no further user intervention is needed before following instructions for download below. Users can either download those datasets directly from links above, or by cloning the super dataset here via instructions below. 
 
 ## Downloading the afids-data super dataset:
 
@@ -32,9 +32,7 @@ https://www.datalad.org/#install
     
 
 3) fill in cloned dataset content
-`datalad get -r .` run this from the parent afids-data directory to install all the data we release here
-
-**Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs.
+`datalad get -r .` run this from the parent afids-data directory to install all the data we release here. Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs.
 
 
 
