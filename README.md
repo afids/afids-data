@@ -32,9 +32,7 @@ https://www.datalad.org/#install
     
 
 3) fill in cloned dataset content
-`datalad get -r .` run this from the parent afids-data directory to install all the data we release here
-
-**Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs.
+`datalad get -r .` run this from the parent afids-data directory to install all the data we release here. Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs.
 
 
 
