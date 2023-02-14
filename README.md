@@ -3,7 +3,6 @@
 
 <a href="https://doi.org/10.5281/zenodo.7640692"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7640692.svg" alt="DOI"></a>
 
-
 ## In this GitHub repo, you can find: 
 
 1) data: Markups Comma-separated values file (i.e., *.fcsv extension) files for both templates and datasets. 
@@ -16,25 +15,23 @@
 3) London Health Sciences Center Parkinson's Disease Dataset (LHSCPD ; n = 40): https://openneuro.org/datasets/ds004471
 4) Stereotactic Neurosurgery 7-Tesla Control Dataset (SNSX; n = 32): https://openneuro.org/datasets/ds004470
 
-*Please review and agree to the Data Usage Terms, outlined in links to the HCP and OASIS datasets, before downloading imaging data.
+*Please review and agree to the Data Usage Terms, outlined in links to the HCP and OASIS datasets, before downloading imaging data. 
 
 ## Accepting Data Usage Agreements (DUA):
 For information about specific dataset DUA, please consult the individual directories linked above. To download HCP and OASIS data, the user must accept their specific DUAs. As for our local datasets (i.e., LHSCPD and SNSX), they are released under Attribution 4.0 International (CC BY 4.0) license and no further user intervention is needed before following instructions for download below. Users can either download those datasets directly from links above, or by cloning the super dataset here via instructions below. 
 
 ## Downloading the afids-data super dataset:
 
-1) Install datalad
+1) Visit the individual datasets linked above to appreciate licensing, accepting DUA, and acquiring user credentials when needed
+
+2) Install datalad
 https://www.datalad.org/#install
     
-
-2) Clone our superdataset (afids-data) on your machine 
+3) Clone our superdataset (afids-data) on your machine 
 `datalad install -r https://github.com/afids/afids-data.git` run this where you want the data to live
     
-
-3) fill in cloned dataset content
-`datalad get -r .` run this from the parent afids-data directory to install all the data we release here. Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs.
-
-
+4) fill in cloned dataset content
+`datalad get -r .` run this from the parent afids-data directory to install all the data we release here. Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs. Note: to download a specific dataset or image, simply run the same command at the level of that dataset or image.
 
 ## An important note on data imaging data license: 
 
