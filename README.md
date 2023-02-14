@@ -9,7 +9,7 @@
 2) notebooks: Jupyter notebooks involved in creation of the JavaScript Object Notation (i.e., *.json) which is an adaptation from BIDS Appendix VIII on Coordinate systems.  
 3) other: Information about rater experience, afids protocol, and interactive glass brain
 
-## Compressed NIfTI-1 format (i.e., .nii.gz extension) for datasets involved in this study are available for download: 
+## Compressed NIfTI-1 images for datasets involved in this data release are available for download: 
 1) 100 Unrelated Humman Connectome Project (AFIDs-HCP dataset; n = 30): https://github.com/afids/AFIDs-HCP
 2) Open Access Series of Imaging Studies (AFIDs-OASIS dataset; n = 30): https://github.com/afids/AFIDs-OASIS
 3) London Health Sciences Center Parkinson's Disease Dataset (LHSCPD ; n = 40): https://openneuro.org/datasets/ds004471
@@ -22,15 +22,15 @@ For information about specific dataset DUA, please consult the individual direct
 
 ## Downloading the afids-data super dataset:
 
-1) Step #1: Install datalad
+1) Install datalad
 https://www.datalad.org/#install
     
 
-2) Step #2: clone our superdataset (afids-data) on your machine 
-`datalad install https://github.com/afids/afids-data.git` run this where you want the data to live
+2) Clone our superdataset (afids-data) on your machine 
+`datalad install -r https://github.com/afids/afids-data.git` run this where you want the data to live
     
 
-3) **Step #3: fill in cloned dataset content
+3) fill in cloned dataset content
 `datalad get -r .` run this from the parent afids-data directory to install all the data we release here
 
 **users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs.
