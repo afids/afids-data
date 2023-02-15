@@ -34,7 +34,7 @@ https://www.datalad.org/#install
 `cd afids-data`
     
 5) Retrieve file content:
-`datalad get -r .` run this to install all the data as part of our super dataset (`.` denotes “current directory” and the `-r` flag is used because afids-data is comprised of multiple DataLad datasets). You can also `datalad get` a full dataset or precise subset of to-be-retrieved files. To do this, you can supply paths or globbing expressions (such as`data/datasets/AFIDs-LHSCPD` or `sub-*/anat/*` instead of `.`). 
+`datalad get -r .` run this to install all the data as part of our super dataset (`.` denotes “current directory” and the `-r` flag is used because afids-data is comprised of multiple DataLad datasets). You can also `datalad get` a full dataset or precise subset of to-be-retrieved files. To do this, you can supply paths or globbing expressions (such as`data/datasets/LHSCPD` or `sub-*/anat/*` instead of `.`). 
 
 Users will be asked to input username credentials or indicate they have accepted the DUA before this stage runs. Note: to download a specific dataset or image, simply run the same command in this step at the level of that dataset or image.
 
