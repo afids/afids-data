@@ -4,7 +4,8 @@
 Taha, A. et al. Magnetic resonance imaging datasets with anatomical fiducials for quality control and registration. bioRxiv 2022.11.21.516173 (2022)
 
 
-<a href="https://doi.org/10.5281/zenodo.7640692"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7640692.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.7641532"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7641532.svg" alt="DOI"></a>
+
 
 ## In this GitHub repo, you can find: 
 
