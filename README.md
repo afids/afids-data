@@ -1,6 +1,8 @@
 # Magnetic resonance imaging datasets with anatomical fiducials for quality control and registration
 <img width="757" alt="image (21)" src="https://user-images.githubusercontent.com/46094728/200840201-90d2e6ef-b066-4de9-8bae-79cb51bd2354.png">
+
 Taha, A. et al. Magnetic resonance imaging datasets with anatomical fiducials for quality control and registration. bioRxiv 2022.11.21.516173 (2022)
+
 
 <a href="https://doi.org/10.5281/zenodo.7640692"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7640692.svg" alt="DOI"></a>
 
