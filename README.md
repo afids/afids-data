@@ -42,7 +42,7 @@ https://www.datalad.org/#install
 
 Feel free to consult the DataLad handbook for more information about working with DataLad: https://handbook.datalad.org/en/latest/
 
-## An important note on data imaging data license: 
+## An important note on data licensing: 
 
-We release our anatomical landmark annotaitons under the Attribution 4.0 International (CC BY 4.0) license, available in `DERIVATIVE_DATA_USE_AGREEMENT.txt` at the dataset level. However, the HCP and OASIS-1 imaging data are protected by a data usage agreement (DUA). If users wish to access this imaging data, they must accept DUAs which we make availible in the `IMAGING_DATA_USE_AGREEMENT.md` file by following specific instructions at the level of each dataset. 
+We release our anatomical landmark annotations under the Attribution 4.0 International (CC BY 4.0) license, available in `DERIVATIVE_DATA_USE_AGREEMENT.txt` at the dataset level. However, the HCP and OASIS-1 imaging data are protected by a data usage agreement (DUA). If users wish to access this imaging data, they must accept DUAs which we make availible in the `IMAGING_DATA_USE_AGREEMENT.md` file by following specific instructions at the level of each dataset. 
 
